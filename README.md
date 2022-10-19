@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Monemax94
-- 👀 I’m interested in Backend Engineering
+- 👋 Hi, I’m Monday Odoh
+- 👀 I’m interested in Backend Software Engineering
 - 🌱 I’m currently studying Software Engineering @ AlX-Holbernton School.
 - 💞️ I’m looking forward to collaborate on any software development project 
 - 📫 How to reach me mondayodoh94@gmail.com
